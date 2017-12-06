@@ -1,15 +1,17 @@
-# Less
+# lesscss.org
 
-> Less/Less.js官方文档中文翻译
-
-
-### [文档站点](https://woolyang.github.io/less-docs-cn/)
-
-### [文档地址](https://github.com/WoolYang/less-docs)
+> Official website and documentation for Less/Less.js
 
 
-Less官方(英文) [主仓库](https://github.com/less/less-docs)
+### [Visit the website](http://lesscss.org)
 
-## 概述
-本文档由wool翻译，供学习交流使用，如果问题欢迎提交[issues](https://github.com/WoolYang/less-docs/issues)
+### [Visit Less.js](https://github.com/less/less.js)
 
+
+Please go to the [main branch](https://github.com/less/less-docs) for source files.
+
+## Contributing
+In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com).
+
+## Release History
+_(Nothing yet)_
