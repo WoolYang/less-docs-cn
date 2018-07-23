@@ -1,17 +1,11 @@
-# lesscss.org
+# Less官方文档2.7版本中文翻译
 
-> Official website and documentation for Less/Less.js
-
-
-### [Visit the website](http://lesscss.org)
-
-### [Visit Less.js](https://github.com/less/less.js)
+> 站点已迁移至 https://okarinfe.github.io/less-docs-cn/
 
 
-Please go to the [main branch](https://github.com/less/less-docs) for source files.
-
-## Contributing
-In lieu of a formal styleguide, take care to maintain the existing coding style. Add unit tests for any new or changed functionality. Lint and test your code using [Grunt](http://gruntjs.com).
-
-## Release History
-_(Nothing yet)_
+### 翻译进度
+- [x] 语言特性
+- [x] 函数手册
+- [x] 用法
+### 贡献
+  如有错误，欢迎issues指出
